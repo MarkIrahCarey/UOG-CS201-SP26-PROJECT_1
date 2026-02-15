@@ -136,5 +136,6 @@ while True:
     
     if repeat == "n":
         print("Ending program... Thank you for using statistical analyzer :).")
+        break
     else:
-        print("Alright!")
+        print("Alright! Lets do this again! ")
