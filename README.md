@@ -27,7 +27,7 @@ This means you **cannot** use anything beyond these 3 chapters (i.e. other modul
 
 **The only exception** is lists/arrays as we have used this a little bit on Chapter 3. But, **JUST** lists. 
 
-This means that the program has to be simple enough to allow for all 3 chapters, but not so simple. 
+This means that the program has to be simple enough to allow for all 3 chapters, but not so simple that you can't cover every concept.
 
 Note: Your project must have the following header, you may copy and paste:
 
