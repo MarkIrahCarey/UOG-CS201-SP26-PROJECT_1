@@ -23,7 +23,9 @@ The chapters are the following:
 - Shortcut operations
 - The `random` module
 
-This means you **cannot** use anything beyond these 3 chapters (i.e. lists/arrays, other modules/libraries, creating custom functions, etc.)
+This means you **cannot** use anything beyond these 3 chapters (i.e. other modules/libraries, creating custom functions, etc.)
+
+**The only exception** is lists/arrays as we have used this a little bit on Chapter 3. But, **JUST** lists. 
 
 This means that the program has to be simple enough to allow for all 3 chapters, but not so simple. 
 
@@ -65,5 +67,5 @@ Total | | | | 100pts|
 
 These are suggestions. Remember that you can create your own idea!
 
-Your professor gave the code for the calendar project to give a general idea of what your project should look like called `calendar_project.py`
+Your professor thought of a statistical analyzer! You may view it on the repo here
 
